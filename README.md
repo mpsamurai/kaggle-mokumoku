@@ -1,1 +1,1 @@
-# kaggle-mokumoku
+# Kaggle もくもく会
