@@ -1,6 +1,6 @@
-# Kaggle もくもく会
+# Kaggle もくもく会 過去ログ
 
-MPS で約2週に一度のペースで六本木にて開催している Kaggle もくもく会のログページです。
+MPS で約2週に一度のペースで六本木にて開催している Kaggle もくもく会の過去ログページです。
 
 イベントの参加申し込みは下記 URL からお願いします！
 [https://mpsamurai.doorkeeper.jp/](https://mpsamurai.doorkeeper.jp/)
